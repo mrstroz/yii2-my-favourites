@@ -8,6 +8,7 @@ My favourite plugins and modules for Yii framework
 
 ## Widgets
 1. Sortable grid https://github.com/himiklab/yii2-sortable-grid-view-widget
+2. Tree manager https://github.com/kartik-v/yii2-tree-manager
 
 ## Behaviors
 1. Translateable https://github.com/2amigos/yii2-translateable-behavior
@@ -17,6 +18,7 @@ My favourite plugins and modules for Yii framework
 2. Dynamic form https://github.com/wbraganca/yii2-dynamicform
 3. PhpExcel https://github.com/moonlandsoft/yii2-phpexcel - _Import / Export to Excel_
 4. Pages https://github.com/dmstr/yii2-pages-module
+5. Nested sets https://github.com/creocoder/yii2-nested-sets
 
 ## Other
 1. Mailgun https://github.com/boundstate/yii2-mailgun
