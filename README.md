@@ -5,6 +5,7 @@ My favourite plugins and modules for Yii framework
 1. CKEditor https://github.com/MihailDev/yii2-ckeditor
 2. ElFinder https://github.com/MihailDev/yii2-elfinder
 3. Select2 https://github.com/kartik-v/yii2-widget-select2 https://github.com/2amigos/yii2-select2-widget
+4. Slugify https://github.com/modernkernel/yii2-slugify
 
 ## Widgets
 1. Sortable grid https://github.com/himiklab/yii2-sortable-grid-view-widget
