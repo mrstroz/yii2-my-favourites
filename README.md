@@ -24,3 +24,4 @@ My favourite plugins and modules for Yii framework
 ## Other
 1. Mailgun https://github.com/boundstate/yii2-mailgun
 2. Migration https://github.com/bizley/yii2-migration
+3. Minify https://github.com/rmrevin/yii2-minify-view
