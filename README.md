@@ -10,6 +10,7 @@ My favourite plugins and modules for Yii framework
 ## Widgets
 1. Sortable grid https://github.com/himiklab/yii2-sortable-grid-view-widget
 2. Tree manager https://github.com/kartik-v/yii2-tree-manager
+3. Multiple input https://github.com/unclead/yii2-multiple-input
 
 ## Behaviors
 1. Translateable https://github.com/2amigos/yii2-translateable-behavior
@@ -25,3 +26,4 @@ My favourite plugins and modules for Yii framework
 1. Mailgun https://github.com/boundstate/yii2-mailgun
 2. Migration https://github.com/bizley/yii2-migration
 3. Minify https://github.com/rmrevin/yii2-minify-view
+4. EAuth - authenticate users by the OpenID, OAuth 1.0 and OAuth 2.0 providers https://github.com/Nodge/yii2-eauth
