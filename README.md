@@ -27,3 +27,5 @@ My favourite plugins and modules for Yii framework
 2. Migration https://github.com/bizley/yii2-migration
 3. Minify https://github.com/rmrevin/yii2-minify-view
 4. EAuth - authenticate users by the OpenID, OAuth 1.0 and OAuth 2.0 providers https://github.com/Nodge/yii2-eauth
+5.  Queue Extension https://github.com/yiisoft/yii2-queue
+6. Locale urls https://github.com/codemix/yii2-localeurls
