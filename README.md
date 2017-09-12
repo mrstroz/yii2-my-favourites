@@ -21,11 +21,13 @@ My favourite plugins and modules for Yii framework
 3. PhpExcel https://github.com/moonlandsoft/yii2-phpexcel - _Import / Export to Excel_
 4. Pages https://github.com/dmstr/yii2-pages-module
 5. Nested sets https://github.com/creocoder/yii2-nested-sets
+6. Translate manager - https://github.com/lajax/yii2-translate-manager
 
 ## Other
 1. Mailgun https://github.com/boundstate/yii2-mailgun
 2. Migration https://github.com/bizley/yii2-migration
 3. Minify https://github.com/rmrevin/yii2-minify-view
 4. EAuth - authenticate users by the OpenID, OAuth 1.0 and OAuth 2.0 providers https://github.com/Nodge/yii2-eauth
-5.  Queue Extension https://github.com/yiisoft/yii2-queue
+5. Queue Extension https://github.com/yiisoft/yii2-queue
 6. Locale urls https://github.com/codemix/yii2-localeurls
+7. Curl - https://github.com/linslin/Yii2-Curl
