@@ -14,6 +14,7 @@ My favourite plugins and modules for Yii framework
 
 ## Behaviors
 1. Translateable https://github.com/2amigos/yii2-translateable-behavior
+2. Yii2 multilingual behavior https://github.com/OmgDef/yii2-multilingual-behavior
 
 ## Modules
 1. Settings https://github.com/yii2mod/yii2-settings
