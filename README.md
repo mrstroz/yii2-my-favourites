@@ -32,3 +32,4 @@ My favourite plugins and modules for Yii framework
 5. Queue Extension https://github.com/yiisoft/yii2-queue
 6. Locale urls https://github.com/codemix/yii2-localeurls
 7. Curl - https://github.com/linslin/Yii2-Curl
+8. Amazon S3 - https://github.com/frostealth/yii2-aws-s3
