@@ -12,6 +12,7 @@ My favourite plugins and modules for Yii framework
 2. Tree manager https://github.com/kartik-v/yii2-tree-manager
 3. Multiple input https://github.com/unclead/yii2-multiple-input
 4. Vote https://github.com/hauntd/yii2-vote
+5. File upload widget https://github.com/2amigos/yii2-file-upload-widget
 
 ## Behaviors
 1. Translateable https://github.com/2amigos/yii2-translateable-behavior
