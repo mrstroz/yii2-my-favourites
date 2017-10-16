@@ -11,6 +11,7 @@ My favourite plugins and modules for Yii framework
 1. Sortable grid https://github.com/himiklab/yii2-sortable-grid-view-widget
 2. Tree manager https://github.com/kartik-v/yii2-tree-manager
 3. Multiple input https://github.com/unclead/yii2-multiple-input
+4. Vote https://github.com/hauntd/yii2-vote
 
 ## Behaviors
 1. Translateable https://github.com/2amigos/yii2-translateable-behavior
