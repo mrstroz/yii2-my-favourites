@@ -26,6 +26,7 @@ My favourite plugins and modules for Yii framework
 4. Pages https://github.com/dmstr/yii2-pages-module
 5. Nested sets https://github.com/creocoder/yii2-nested-sets
 6. Translate manager - https://github.com/lajax/yii2-translate-manager
+7. Sitemap - https://github.com/himiklab/yii2-sitemap-module
 
 ## Other
 1. Mailgun https://github.com/boundstate/yii2-mailgun
