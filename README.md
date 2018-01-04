@@ -15,6 +15,7 @@ My favourite plugins and modules for Yii framework
 3. Multiple input https://github.com/unclead/yii2-multiple-input
 4. Vote https://github.com/hauntd/yii2-vote
 5. File upload widget https://github.com/2amigos/yii2-file-upload-widget
+6. Awesome bootstrap checkboxes https://github.com/justinvoelker/yii2-awesomebootstrapcheckbox
 
 ## Behaviors
 1. Translateable https://github.com/2amigos/yii2-translateable-behavior
@@ -39,3 +40,4 @@ My favourite plugins and modules for Yii framework
 6. Locale urls https://github.com/codemix/yii2-localeurls
 7. Curl - https://github.com/linslin/Yii2-Curl
 8. Amazon S3 - https://github.com/frostealth/yii2-aws-s3
+9. Auth client - https://github.com/yiisoft/yii2-authclient
