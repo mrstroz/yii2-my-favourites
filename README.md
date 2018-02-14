@@ -26,6 +26,7 @@ My favourite plugins and modules for Yii framework
 1. Settings https://github.com/yii2mod/yii2-settings
 2. Dynamic form https://github.com/wbraganca/yii2-dynamicform
 3. PhpExcel https://github.com/moonlandsoft/yii2-phpexcel - _Import / Export to Excel_
+4. Export to excel https://github.com/yii2tech/spreadsheet - **better**
 4. Pages https://github.com/dmstr/yii2-pages-module
 5. Nested sets https://github.com/creocoder/yii2-nested-sets
 6. Translate manager - https://github.com/lajax/yii2-translate-manager
