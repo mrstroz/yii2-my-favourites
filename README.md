@@ -43,3 +43,5 @@ My favourite plugins and modules for Yii framework
 7. Curl - https://github.com/linslin/Yii2-Curl
 8. Amazon S3 - https://github.com/frostealth/yii2-aws-s3
 9. Auth client - https://github.com/yiisoft/yii2-authclient
+10. SFTP - https://github.com/hguenot/yii2-gsftp
+10. FTP - https://github.com/hguenot/yii2-gftp
