@@ -17,10 +17,12 @@ My favourite plugins and modules for Yii framework
 5. File upload widget https://github.com/2amigos/yii2-file-upload-widget
 6. Awesome bootstrap checkboxes https://github.com/justinvoelker/yii2-awesomebootstrapcheckbox
 7. X-Editable Widget https://github.com/2amigos/yii2-editable-widget
+8. Price / Number input https://github.com/kartik-v/yii2-number
 
 ## Behaviors
 1. Translateable https://github.com/2amigos/yii2-translateable-behavior
 2. Yii2 multilingual behavior https://github.com/OmgDef/yii2-multilingual-behavior
+3. Many to many https://github.com/arogachev/yii2-many-to-many
 
 ## Modules
 1. Settings https://github.com/yii2mod/yii2-settings
