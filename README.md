@@ -34,6 +34,7 @@ My favourite plugins and modules for Yii framework
 6. Translate manager - https://github.com/lajax/yii2-translate-manager
 7. Sitemap - https://github.com/himiklab/yii2-sitemap-module
 8. Gallery manager - https://github.com/zxbodya/yii2-gallery-manager
+9. Image manager - https://github.com/noam148/yii2-image-manager
 
 ## Other
 1. Mailgun https://github.com/boundstate/yii2-mailgun
