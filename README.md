@@ -47,4 +47,5 @@ My favourite plugins and modules for Yii framework
 8. Amazon S3 - https://github.com/frostealth/yii2-aws-s3
 9. Auth client - https://github.com/yiisoft/yii2-authclient
 10. SFTP - https://github.com/hguenot/yii2-gsftp
-10. FTP - https://github.com/hguenot/yii2-gftp
+11. FTP - https://github.com/hguenot/yii2-gftp
+12. Warning popup before session timeout - https://github.com/mg-code/yii2-session-timeout-warning
