@@ -49,3 +49,4 @@ My favourite plugins and modules for Yii framework
 10. SFTP - https://github.com/hguenot/yii2-gsftp
 11. FTP - https://github.com/hguenot/yii2-gftp
 12. Warning popup before session timeout - https://github.com/mg-code/yii2-session-timeout-warning
+13. Cronjob scheduling - https://github.com/omnilight/yii2-scheduling
